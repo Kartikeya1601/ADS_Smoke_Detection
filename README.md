@@ -10,3 +10,5 @@ ipynb directory has the entire code that has been used to get to an optimal solu
 static directory has all the styling and background images.
 templates folder has the index.html file.
 Report directory consists of a very detailed project report and the technical documentation.
+smoke_detection_iot.csv is the dataset.
+app.py is the app which has been deployed onto the web.
